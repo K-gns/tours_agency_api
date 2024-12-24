@@ -11,7 +11,7 @@ git clone https://github.com/K-gns/tours_agency_api.git
 Перейдите в каталог проекта:
 
 ```bash
-cd tour_agency
+cd tour_agency_api
 ```
 
 Соберите и запустите контейнеры Docker:
